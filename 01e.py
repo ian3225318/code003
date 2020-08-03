@@ -6,7 +6,6 @@ while True:
         c=eval(c)
         area=(a+b)*c/2
         print('Trapezoid area:',area,sep='')
-        print("123")
     except(EOFError):
         break
     
